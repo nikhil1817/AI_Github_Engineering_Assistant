@@ -68,7 +68,7 @@ AI_Github_Engineering_Assistant/
 
 # Screenshot
 
-![Application UI](screenshot/Screenshot%202026-05-08%20at%2016.51.46.png)
+![Application UI](screenshot/Screenshot%img1.png)
 
 ---
 
